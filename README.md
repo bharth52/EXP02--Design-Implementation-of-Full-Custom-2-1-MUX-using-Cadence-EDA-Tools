@@ -8,7 +8,7 @@ Tools Required:
 
 S C H E M A T I C S I M U L A T I O N
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
-Commands to get into Cadence
+Commands to get into CadencE
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
